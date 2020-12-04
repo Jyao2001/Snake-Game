@@ -1,11 +1,4 @@
-/*
-    John Yao
-    Create a perfected snake game
-    changelog - 1/15/2020: added code to say why the game quits, fixed the # generator code
-                1/22/2020: separated some functions into sub-functions
-                1/25/2020: Added play again option
 
-    //////////////////////////////////////////////////////Guideline Check////////////////////////////////////////////////////////////////////////////////
 ✓   1. Is there a bug in the board drawing code that sometimes makes the snake disappear? If there is, find it and fix it.
     There may be other bugs in either the Logic or Draw routines; find any and fix them
 
@@ -23,5 +16,3 @@
 
 ✓   7. Make the input routine case-insensitive.
 
-    8. Add any other features you think are valuable/interesting, and note in the comments at the top of the program what you added and why.
-*/
