@@ -1,5 +1,6 @@
 This is a redesign of the infamous Snake Game. Added some new features/fixed bugs such as: 
 
+
 Bug in the board drawing code that sometimes makes the snake disappear.
 
 Capability of having more than one fruit on the board.
